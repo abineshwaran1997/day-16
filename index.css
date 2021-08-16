@@ -1,0 +1,47 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+div.one{ 
+    
+    border: solid;
+    border-radius: 5px; 
+    text-align: center;                 
+}
+form.two{
+  
+    border: solid;
+    border-radius: 5px;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: right;
+    padding-right: 2em;
+    margin-bottom: 50px;
+}
+select#three{
+     padding-right:  6em ;
+}
+div.ima{
+    display:block;
+    border: solid;
+    margin-right: 50%;
+    padding-right: 2em;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+div.mmm{
+    
+    padding-right: 30px ;
+    padding-top: 50px;
+    border: solid;
+    border-radius: 50px;
+    padding: 50px;
+    
+}
